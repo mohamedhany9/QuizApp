@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "644944654608",
+    "firebase_url": "https://fir-auth-e544d.firebaseio.com",
+    "project_id": "fir-auth-e544d",
+    "storage_bucket": "fir-auth-e544d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644944654608:android:a8526e4f9058f9e476b595",
+        "android_client_info": {
+          "package_name": "com.example.quizflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644944654608-a04t39f93cruct71umlnt8paffq4r61c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOu5DnsTGu73FuI14N83xRtelGwEwXR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644944654608-a04t39f93cruct71umlnt8paffq4r61c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
